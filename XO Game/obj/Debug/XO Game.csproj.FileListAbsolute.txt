@@ -1,0 +1,15 @@
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\XO Game\XO Game\bin\Debug\XO Game.exe.config
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\XO Game\XO Game\bin\Debug\XO Game.exe
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\XO Game\XO Game\bin\Debug\XO Game.pdb
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\XO Game\XO Game\obj\Debug\XO Game.csproj.AssemblyReference.cache
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\XO Game\XO Game\obj\Debug\XO Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\XO Game\XO Game\obj\Debug\XO_Game.frmmain.resources
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\XO Game\XO Game\obj\Debug\XO_Game.Properties.Resources.resources
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\XO Game\XO Game\obj\Debug\XO Game.csproj.GenerateResource.cache
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\XO Game\XO Game\obj\Debug\XO Game.csproj.CoreCompileInputs.cache
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\XO Game\XO Game\obj\Debug\XO Game.exe
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\XO Game\XO Game\obj\Debug\XO Game.pdb
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\XO Game\XO Game\bin\Debug\Guna.UI2.dll
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\XO Game\XO Game\obj\Debug\XO Game.csproj.CopyComplete
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\XO Game\XO Game\obj\Debug\XO_Game.Frm_1player.resources
+C:\Users\Adigamahoo\OneDrive\سطح المكتب\XO Game\XO Game\obj\Debug\XO_Game.Frm_2player.resources
