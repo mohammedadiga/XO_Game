@@ -1,2 +1,2 @@
 # XO_Game
-![Calculater](icons/image-100.jpg "Calculater")
+![XO_Game](icon/image-100.jpg "XO_Game")
